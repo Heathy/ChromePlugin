@@ -1,0 +1,11 @@
+{
+    "name": "这是我的第二个Chorme插件", 
+    "version": "1.0", 
+    "description": "现在不知道要写点啥？", 
+    "manifest_version": 2, 
+    "browser_action": {
+      "default_title": "Hello, Heathy",
+      "default_icon": "/images/logo.png", 
+      "default_popup": "popup.html"
+    }
+  }
