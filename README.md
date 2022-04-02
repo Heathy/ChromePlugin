@@ -14,3 +14,6 @@
     </a>
 </p>
 ---
+---
+<p>[参考文档 chrome developers](https://developer.chrome.com/docs/extensions/mv3/getstarted/)<p>
+---
